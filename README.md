@@ -61,10 +61,9 @@ so the body was repaired using fibreglass before conversion.
 - Component sourcing and research
 
 ## Team
-Project carried out by a team of students from 
+Project carried out by a team of students (MFS STEM club 2025) from 
 Mfantsipim School, Ghana, under the supervision 
 of a professional engineer.
 
 ## Status
 Conversion completed during Senior High School.
-I'll add the progress photos soon

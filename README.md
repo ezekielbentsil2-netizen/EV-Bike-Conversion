@@ -1,3 +1,23 @@
+
+
+https://github.com/user-attachments/assets/70ec1bbf-0749-4ea0-90f2-f82723b303ba
+
+
+
+https://github.com/user-attachments/assets/2f746417-b6a1-4789-be77-8d9b31299f6c
+
+
+
+https://github.com/user-attachments/assets/8401efd6-c1fa-4f6b-900f-807616283cb7
+
+
+
+https://github.com/user-attachments/assets/773065ab-fe3c-462a-b2c7-aa683ae364e2
+
+
+
+https://github.com/user-attachments/assets/3a378923-3056-4a05-8691-29ff1f2a677d
+
 # EV Bike Conversion
 
 A hands-on project converting an internal combustion (IC) 
